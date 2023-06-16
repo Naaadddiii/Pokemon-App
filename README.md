@@ -1,4 +1,4 @@
-# Pokédex - ReactJS
+# Pokemon App - ReactJS
 
 ## 📷 Screenshot
 
